@@ -1,0 +1,49 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Validate First Name field",
+        "description": "",
+        "id": "facebook-login-feature;validate-first-name-field",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User need to be on Facebook login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user enters user first name",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User checks user first name is present",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook login feature",
+    "description": "As a user i need to open facebook page and do the validation",
+    "id": "facebook-login-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/Vishi/workspace/CucumberBDDFramework/src/main/java/com/epicomm/app/sample/sample.feature"
+  }
+]

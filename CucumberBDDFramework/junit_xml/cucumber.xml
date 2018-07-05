@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Facebook login feature" name="Validate First Name field" time="0">
+<skipped><![CDATA[Given User need to be on Facebook login page................................undefined
+When user enters user first name............................................undefined
+Then User checks user first name is present.................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
